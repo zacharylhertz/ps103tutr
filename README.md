@@ -6,7 +6,7 @@ This package is a set of interactive tutorials for Tufts University students enr
 remotes::install_github("kosukeimai/qss-package", build_vignettes = TRUE)
 remotes::install_github("rstudio/learnr")
 remotes::install_github("rstudio-education/gradethis")
-remotes::install_github("mattblackwell/qsslearnr")
+remotes::install_github("zacharylhertz/ps103tutr")
 ```
 
 Then you can start the tutorials in one of two ways. First, in RStudio 1.3 or later, you will find the QSS tutorials listed in the "Tutorial" tab in the top-right pane (by default). Find a tutorial and click "Run Tutorial" to get started. Second, you can run any tutorial from the R console by typing the following line: 
