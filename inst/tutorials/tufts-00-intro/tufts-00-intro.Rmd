@@ -296,9 +296,9 @@ We're going to use this to create a label for the  `world.pop` vector. We can as
 
 ```{r seq, exercise = TRUE, exercise.setup = "worlddata"}
 ## create a vector with a sequence from 1950 to 2010 by 10
-year <- ...
+year <- '...'
 
-names(world.pop) <- ...
+names(world.pop) <- '...'
 
 world.pop
 ```
@@ -350,7 +350,7 @@ We can apply many types of arithmetic operators such as addition, subtraction, m
 
 ```{r vector_math, exercise=TRUE, exercise.setup = "worlddata"}
 ## create the pop.million variable.
-pop.million <- ...
+pop.million <- '...'
 
 ## print out the pop.million variable
 
