@@ -87,7 +87,7 @@ You can save anything in R to an object. This is handy if you want to reuse some
 
 ```{r storing, exercise = TRUE, exercise.lines = 6}
 ## assign the difference here
-mydiff <- ...
+mydiff <- '...'
 
 ## print the value of mydiff on the next line
 
@@ -112,10 +112,10 @@ A lot of the time we'll work with numbers in R, but we will also want to use a l
 
 ```{r strings, exercise=TRUE}
 ## save the first string
-course <- ...
+course <- '...'
 
 ## overwrite the course variable with the second phrase
-course <- ...
+course <- '...'
 
 ## print the value of course on the next line
 
@@ -146,7 +146,7 @@ result <- 8 - 2
 
 
 ## Overwrite "result"
-result <- ...
+result <- '...'
 
 ## Print result on next line
 
